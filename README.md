@@ -2,7 +2,7 @@
 
 Utilizing MATALB, the student is introduced to different basic concepts on feedback and control system through interactive and creative tasks. 
 
-<img src="animations/animation.gif" width="600">
+<img src="[animations/animation.gif](https://github.com/user-attachments/assets/f63ab3bf-058b-4f22-aaae-c7a85724eed2)" width="600">
 ![Intro_to_feedback](https://github.com/user-attachments/assets/f63ab3bf-058b-4f22-aaae-c7a85724eed2)
 
 ## Learning Goals
