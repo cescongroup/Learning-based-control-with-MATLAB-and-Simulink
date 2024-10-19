@@ -24,4 +24,4 @@ MATLAB, Simulink, Control System Toolbox™, Simulink Control Design™, Reinfor
 ## Educator Resources
 - [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
 - [Data-Driven Control with MATLAB and Simulink](https://www.mathworks.com/solutions/control-systems/data-driven-controls.html)
-- 
+
