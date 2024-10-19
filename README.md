@@ -1,0 +1,27 @@
+# Homework 1 Feedback Fundamentals
+
+Utilizing MATALB, the student is introduced to different basic concepts on feedback and control system through interactive and creative tasks. 
+
+<img src="animations/animation.gif" width="600">
+![Intro_to_feedback](https://github.com/user-attachments/assets/f63ab3bf-058b-4f22-aaae-c7a85724eed2)
+
+## Learning Goals
+- Introduction to the concept of modeling.
+- Introduction to basic material on differential equations and difference equations; commonly used in feedback
+and control systems.
+- Understand the concepts of state, input, output and dynamics.
+
+## Setup
+Open the MATLAB Live Script 'Homework 1 Feedback Fundamentals' and run each section as directed. 
+
+## Suggested Prework
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
+- [Learning-Based Control Tech Talks](https://www.mathworks.com/videos/tech-talks/controls.html)
+
+## Products
+MATLAB, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™
+
+## Educator Resources
+- [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
+- [Data-Driven Control with MATLAB and Simulink](https://www.mathworks.com/solutions/control-systems/data-driven-controls.html)
+- 
