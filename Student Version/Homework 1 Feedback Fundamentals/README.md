@@ -1,6 +1,6 @@
 # Homework 1 Feedback Fundamentals
 
-Utilizing MATALB, the student is introduced to different basic concepts on feedback and control system through interactive and creative tasks. 
+Utilizing MATALB, the student is introduced to different basic concepts on feedback and control system through interactive and creative tasks.
 
 
 ![Intro_to_feedback](https://github.com/user-attachments/assets/8f41bb27-9e24-440e-ba3d-1c865cf2e4f5)
@@ -19,7 +19,7 @@ Open the MATLAB Live Script [Homework 1 Feedback Fundamentals.mlx](https://githu
 - [Learning-Based Control Tech Talks](https://www.mathworks.com/videos/tech-talks/controls.html)
 
 ## Products
-MATLAB, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™
+MATLAB, Simulink, Control System Toolbox™, Simulink Control Design™, System Identification Toolbox™, Simscape™, Simscape Multibody™
 
 ## Educator Resources
 - [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
