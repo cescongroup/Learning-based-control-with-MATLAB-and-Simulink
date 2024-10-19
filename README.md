@@ -12,7 +12,7 @@ and control systems.
 - Understand the concepts of state, input, output and dynamics.
 
 ## Setup
-Open the MATLAB Live Script [Homework 1 Feedback Fundamentals.mlx](../Homework 1 Feedback Fundamentals.mlx) and run each section as directed. 
+Open the MATLAB Live Script [Homework 1 Feedback Fundamentals.mlx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%201%20Feedback%20Fundamentals%20and%20Solution/Homework%201%20Feedback%20Fundamentals.mlx) and run each section as directed. 
 
 ## Suggested Prework
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
