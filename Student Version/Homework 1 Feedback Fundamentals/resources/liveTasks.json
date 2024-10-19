@@ -1,0 +1,79 @@
+{
+    "Sinusoid_Input_":{
+        "description":"Experiement using different A and omega values",
+        "docLink":"",
+        "keywords":"",
+        "name":"Sinusoid Input ",
+        "uniqueId":"Sinusoid_Input_"
+    },
+    "Task1":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"Task1",
+        "uniqueId":"Task1"
+    },
+    "Task_1":{
+        "description":"Using stop time T = 250 seconds, kp = 0.5, and ki = 0.1, plot the vehicle’s speed as a function of time for m = 1000 [kg], m = 2000 [kg] and m = 3000 [kg].",
+        "docLink":"",
+        "keywords":"",
+        "name":"Task 1",
+        "uniqueId":"Task_1"
+    },
+    "Task__":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"Task..",
+        "uniqueId":"Task__"
+    },
+    "Using_a_Sinusoid_Input":{
+        "description":"Use different A and omega values.",
+        "docLink":"",
+        "keywords":"",
+        "name":"Using a Sinusoid Input",
+        "uniqueId":"Using_a_Sinusoid_Input"
+    },
+    "Vehicle_s_speed_and_mass":{
+        "description":"Plot the speed for different masses",
+        "docLink":"",
+        "keywords":"",
+        "name":"Vehicle's speed and mass",
+        "uniqueId":"Vehicle_s_speed_and_mass"
+    },
+    "d":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"d",
+        "uniqueId":"d"
+    },
+    "hj":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"hj",
+        "uniqueId":"hj"
+    },
+    "k":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"k",
+        "uniqueId":"k"
+    },
+    "l":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"l",
+        "uniqueId":"l"
+    },
+    "m":{
+        "description":"",
+        "docLink":"",
+        "keywords":"",
+        "name":"m",
+        "uniqueId":"m"
+    }
+}
