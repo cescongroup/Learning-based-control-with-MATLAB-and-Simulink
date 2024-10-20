@@ -10,6 +10,7 @@ In this exercise, we go through the process of gain scheduling step-by-step, whe
 - Gains hands on experience using Simulink and MATLAB.
 
 ## Setup
+Open the MATLAB Live Script [Homework 2 Gain Scheduling of Autopilot.mlx]() and run each section as directed. 
 
 ## Suggested Prework
 -[What Is Gain Scheduling? MATLAB Tech Talks](https://www.mathworks.com/videos/control-systems-in-practice-part-2-what-is-gain-scheduling-1535711972066.html)
