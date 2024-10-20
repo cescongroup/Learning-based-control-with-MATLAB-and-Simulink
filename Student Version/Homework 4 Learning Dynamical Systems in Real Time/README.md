@@ -1,8 +1,5 @@
 # Homework 4 Learning Dynamical Systems in Real Time 
 
-In this approach, experiments are performed on the system by exciting its dynamics in order to collect data. A model, then, is fitted to the generated data by assigning suitable numerical values to its parameters. Often, it happens that a model based on first-principles contains a number of unknown parameters. Identification methods can be applied to estimate the unknown parameters. 
-In this homework we will study a method to update the model's parameter estimates obtain with system identification in real-time.
-
 
 
 ## Learning Goals
