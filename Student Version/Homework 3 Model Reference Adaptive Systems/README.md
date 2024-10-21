@@ -10,11 +10,3 @@ Adaptive control is the design of a controller that can adapt to parameter varia
 
 ## Setup
 Open the MATLAB Live Script [Homework 3 Model Reference Adaptive Systems.mlx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems/Homework%203%20Model%20Reference%20Adaptive%20Systems.mlx) and run each section as directed. Implement the model for each task using the given libraries: [Library_1.slx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems/Library_1.slx) and [Library_2.slx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems/Library_2.slx).
-
-## Suggested Prework
--
-## Products
-MATLAB R2020b, Simulink
-
-## Educator Resources
--
