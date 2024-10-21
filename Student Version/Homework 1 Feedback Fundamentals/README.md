@@ -14,10 +14,3 @@ and control systems.
 ## Setup
 Open the MATLAB Live Script [Homework 1 Feedback Fundamentals.mlx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%201%20Feedback%20Fundamentals%20and%20Solution/Homework%201%20Feedback%20Fundamentals.mlx) and run each section as directed. 
 
-## Suggested Prework
-- 
-## Products
-MATLAB, Simulink, Control System Toolbox™, Simulink Control Design™, System Identification Toolbox™, Simscape™, Simscape Multibody™
-
-## Educator Resources
-- 
