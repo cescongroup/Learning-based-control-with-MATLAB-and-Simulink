@@ -1,5 +1,4 @@
 # Homework 6 Machine Learning Based Components for Control
-
 Time series forecasting with neural networks (NNs) involves using historical data to predict future values in a sequence. NNs, particularly recurrent neural networks (RNNs) and long short-term memory (LSTM) models, are well-suited for capturing temporal dependencies in time series data. These models learn patterns, trends, and seasonality from the input sequence and generate predictions based on that learned structure. NNs are valuable for handling nonlinearities and complex relationships in data, making them effective for forecasting in various domains like finance, weather, and demand prediction. In this exercise we will train neural networks (NNs) and LSTM network for time series forecasting.
 
 ![lorenz_and_nn](https://github.com/user-attachments/assets/6775eb6b-5f5b-46d2-b600-4d9042482c29)
