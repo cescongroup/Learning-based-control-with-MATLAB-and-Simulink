@@ -1,5 +1,4 @@
 # Homework 2 Gain Scheduling of Autopilot 
-
 Gain scheduling; where controller parameters are adjusted based on direct measurements of system and environmental parameters, is the common solution for high-performance aircraft. 
 In this exercise, we go through the process of gain scheduling step-by-step, where the user gains an understanding of the advantages and limitations of gain scheduling. 
 
