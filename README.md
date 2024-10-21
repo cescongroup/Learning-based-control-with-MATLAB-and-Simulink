@@ -13,9 +13,9 @@ Learn how to use MATLAB and Simulink for the analysis and design of automatic co
 Open the MATLAB Live Script related to the specific homework folder and run sections, modify files or enter text as directed.
 
 ## Suggested Prework
-- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial on commonly used features and workflows of MATLAB®.
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
-- [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
+- [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) – a free one-hour introductory tutorial on basics of solving optimization problems in MATLAB®. .
 - [Learning-Based Control Tech Talks](https://www.mathworks.com/videos/tech-talks/controls.html)
 
 ## Products
