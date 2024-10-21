@@ -2,6 +2,7 @@
 
 
 
+![lorenz_and_nn](https://github.com/user-attachments/assets/6775eb6b-5f5b-46d2-b600-4d9042482c29)
 
 ## Learning Goals
 - 
