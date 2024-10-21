@@ -1,5 +1,4 @@
 # Homework 3 Model Reference Adaptive Systems 
-
 Adaptive control is the design of a controller that can adapt to parameter variations. This exercise will cover introduction to adaptive control, in particular Model Reference Adaptive Systems (MRAS). It will cover controller parameters adaptation rules based on gradients and Lyapunov theory, respectively.
 
 ![drone_tracking](https://github.com/user-attachments/assets/44cfec15-a64a-4d52-9a59-9d8ff5744953)
