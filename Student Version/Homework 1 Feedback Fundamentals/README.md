@@ -1,7 +1,5 @@
 # Homework 1 Feedback Fundamentals
-
 Utilizing MATALB, the student is introduced to different basic concepts on feedback and control system through interactive and creative tasks.
-
 
 ![Intro_to_feedback](https://github.com/user-attachments/assets/8f41bb27-9e24-440e-ba3d-1c865cf2e4f5)
 
