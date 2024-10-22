@@ -10,7 +10,7 @@ Learn how to use MATLAB and Simulink for the analysis and design of automatic co
 - [Homework 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control)
 
 ## Setup
-Open the MATLAB Live Script related to the specific homework folder and run sections, modify files or enter text as directed.
+Open the MATLAB Live Script related to the specific homework folder and run sections, modify files, enter code or text as directed.
 
 ## Suggested Prework
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial on commonly used features and workflows of MATLAB®.
