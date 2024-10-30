@@ -1,5 +1,28 @@
 # Learning-Based Control with MATLAB and Simulink
-Learn how to use MATLAB and Simulink for the analysis and design of automatic control systems and their applications with the Control Tutorials for MATLAB and Simulink. Expand your knowledge through interactive courses, explore documentation and code examples, or watch how-to videos on product capabilities by Mathworks.
+The discipline of automatic control has been firmly rooted in the tradition of model-based design, prescribing first the development of a suitable model describing the dynamical system to be controlled, and then using the developed models for the design of the control law. When the relationships between physical quantities characterizing the dynamical system are hard to model from first principle or not fully known, then it is possible to harness data collected from the system to obtain models and control laws.
+
+The objective of this course is to illustrate the basic principles of how this is accomplished combining system identification, machine learning and adaptive control.
+
+## Learning Objectives:
+After the completion of the course the student will be able to:
+
+· define the basic control concepts for multi-input multi-output (MIMO) systems
+
+· formulate and implement algorithms for real-time and recursive system identification
+
+· understand the importance of excitation and the trade-off between exploration and exploitation
+
+· define and implement simple data-driven controllers
+
+· understand the basic principle of dynamic programming
+
+· formulate and implement common variants of reinforcement learning (RL) algorithms
+
+· understand the possibilities and limitations when using learning and adaptation
+
+## Course application areas:
+
+Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning
 
 ## Table of Contents
 - [Homework 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals)
