@@ -25,26 +25,26 @@ After the completion of the course the student will be able to:
 Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning.
 
 ## Table of Contents
-- [Homework 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals)
-- [Homework 2 Gain Scheduling of Autopilot](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%202%20Gain%20Scheduling%20of%20Autopilot)
-- [Homework 3 Model Reference Adaptive Systems](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems)
-- [Homework 4 Learning Dynamical Systems in Real Time](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time)
-- [Homework 5 Iterative Learning Control (ILC) of the DC-servo](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%205%20Iterative%20Learning%20Control%20(ILC)%20of%20the%20DC-servo)
-- [Homework 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control)
+- [Module 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals)
+- [Module 2 Gain Scheduling of Autopilot](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%202%20Gain%20Scheduling%20of%20Autopilot)
+- [Module 3 Model Reference Adaptive Systems](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems)
+- [Module 4 Learning Dynamical Systems in Real Time](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time)
+- [Module 5 Iterative Learning Control (ILC) of the DC-servo](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%205%20Iterative%20Learning%20Control%20(ILC)%20of%20the%20DC-servo)
+- [Module 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control)
 
 ## Setup
 Open the MATLAB Live Script related to the specific homework folder and run sections, modify files, enter code or text as directed.
 
 ## Suggested Prework
-- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial on commonly used features and workflows of MATLAB®.
-- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
-- [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) – a free one-hour introductory tutorial on basics of solving optimization problems in MATLAB®. .
-- [Learning-Based Control Tech Talks](https://www.mathworks.com/videos/tech-talks/controls.html)
-
-## Products
-MATLAB 2024a, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™, Simscape Electrical™, Curve Fitting Toolbox™, Deep Learning Toolbox™,
-Signal Processing Toolbox™, Aerospace Toolbox™.
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - a free three-hour introductory tutorial that teaches the essentials of Simulink.
+- [Learning-Based Control Tech Talks](https://www.mathworks.com/videos/series/learning-based-control.html) - introduces several concepts for learning-based control systems, such as extremum seeking control and constraint enforcement.
+- [Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) - basics of feedback control design in Simulink.
+- [Reinforcement Learning Onramp](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) - basics of creating intelligent controllers that learn from experience in MATLAB®.
 
 ## Educator Resources
 - [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
 - [Data-Driven Control with MATLAB and Simulink](https://www.mathworks.com/solutions/control-systems/data-driven-controls.html)
+  
+## Products
+MATLAB 2024a, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™, Simscape Electrical™, Curve Fitting Toolbox™, Deep Learning Toolbox™,
+Signal Processing Toolbox™, Aerospace Toolbox™.
