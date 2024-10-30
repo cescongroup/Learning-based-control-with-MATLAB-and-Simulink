@@ -6,23 +6,23 @@ The objective of this course is to illustrate the basic principles of how this i
 ## Learning Objectives:
 After the completion of the course the student will be able to:
 
-· define the basic control concepts for multi-input multi-output (MIMO) systems
+- Define the basic control concepts for multi-input multi-output (MIMO) systems
 
-· formulate and implement algorithms for real-time and recursive system identification
+- Formulate and implement algorithms for real-time and recursive system identification
 
-· understand the importance of excitation and the trade-off between exploration and exploitation
+- Understand the importance of excitation and the trade-off between exploration and exploitation
 
-· define and implement simple data-driven controllers
+- Define and implement simple data-driven controllers
 
-· understand the basic principle of dynamic programming
+- Understand the basic principle of dynamic programming
 
-· formulate and implement common variants of reinforcement learning (RL) algorithms
+- Formulate and implement common variants of reinforcement learning (RL) algorithms
 
-· understand the possibilities and limitations when using learning and adaptation
+- Understand the possibilities and limitations when using learning and adaptation
 
 ## Course application areas:
 
-Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning
+Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning.
 
 ## Table of Contents
 - [Homework 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals)
