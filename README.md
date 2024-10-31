@@ -33,7 +33,8 @@ Learning-based control (AI-based control, data-driven control, intelligent syste
 - [Module 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control)
 
 ## Setup
-Open the MATLAB Live Script related to the specific homework folder and run sections, modify files, enter code or text as directed.
+Open the MATLAB Live Script (e.g, [Homework 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals))
+related to the specific homework folder and run sections, modify files, enter code or text as directed.
 
 ## Suggested Prework
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - a free three-hour introductory tutorial that teaches the essentials of Simulink.
