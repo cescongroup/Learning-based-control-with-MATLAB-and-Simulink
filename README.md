@@ -30,7 +30,7 @@ Learning-based control (AI-based control, data-driven control, intelligent syste
 - [Module 3 Model Reference Adaptive Systems](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%203%20Model%20Reference%20Adaptive%20Systems/Homework%203%20Model%20Reference%20Adaptive%20Systems.pdf)
 - [Module 4 Learning Dynamical Systems in Real Time](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time.pdf)
 - [Module 5 Iterative Learning Control (ILC) of the DC-servo](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%205%20Iterative%20Learning%20Control%20(ILC)%20of%20the%20DC-servo/Homework%205%20Iterative%20Learning%20Control%20(ILC)%20of%20the%20DC-servo.pdf)
-- [Module 6 Machine Learning Based Components for Control]()
+- [Module 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control.pdf)
 
 ## Setup
 Open the MATLAB Live Script file ending with .mlx (e.g. [Homework 1 Feedback Fundamentals.mlx](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%201%20Feedback%20Fundamentals/Homework%201%20Feedback%20Fundamentals.mlx))
