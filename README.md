@@ -25,7 +25,7 @@ After the completion of the course the student will be able to:
 Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning.
 
 ## Table of Contents
-- [Module 1 Feedback Fundamentals]()
+- [Module 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%201%20Feedback%20Fundamentals/Homework%201%20Feedback%20Fundamentals.pdf)
 - [Module 2 Gain Scheduling of Autopilot]()
 - [Module 3 Model Reference Adaptive Systems]()
 - [Module 4 Learning Dynamical Systems in Real Time]()
