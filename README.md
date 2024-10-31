@@ -28,7 +28,7 @@ Learning-based control (AI-based control, data-driven control, intelligent syste
 - [Module 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%201%20Feedback%20Fundamentals/Homework%201%20Feedback%20Fundamentals.pdf)
 - [Module 2 Gain Scheduling of Autopilot](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%202%20Gain%20Scheduling%20of%20Autopilot/Homework%202%20Gain%20Scheduling%20of%20Autopilot.pdf)
 - [Module 3 Model Reference Adaptive Systems](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%203%20Model%20Reference%20Adaptive%20Systems/Homework%203%20Model%20Reference%20Adaptive%20Systems.pdf)
-- [Module 4 Learning Dynamical Systems in Real Time]()
+- [Module 4 Learning Dynamical Systems in Real Time](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/blob/main/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time.pdf)
 - [Module 5 Iterative Learning Control (ILC) of the DC-servo]()
 - [Module 6 Machine Learning Based Components for Control]()
 
