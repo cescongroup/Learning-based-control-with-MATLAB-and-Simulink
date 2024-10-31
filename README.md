@@ -25,15 +25,15 @@ After the completion of the course the student will be able to:
 Learning-based control (AI-based control, data-driven control, intelligent system control), adaptive control, reinforcement learning.
 
 ## Table of Contents
-- [Module 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals)
-- [Module 2 Gain Scheduling of Autopilot](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%202%20Gain%20Scheduling%20of%20Autopilot)
-- [Module 3 Model Reference Adaptive Systems](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%203%20Model%20Reference%20Adaptive%20Systems)
-- [Module 4 Learning Dynamical Systems in Real Time](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%204%20Learning%20Dynamical%20Systems%20in%20Real%20Time)
-- [Module 5 Iterative Learning Control (ILC) of the DC-servo](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%205%20Iterative%20Learning%20Control%20(ILC)%20of%20the%20DC-servo)
-- [Module 6 Machine Learning Based Components for Control](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%206%20Machine%20Learning%20Based%20Components%20for%20Control)
+- [Module 1 Feedback Fundamentals]()
+- [Module 2 Gain Scheduling of Autopilot]()
+- [Module 3 Model Reference Adaptive Systems]()
+- [Module 4 Learning Dynamical Systems in Real Time]()
+- [Module 5 Iterative Learning Control (ILC) of the DC-servo]()
+- [Module 6 Machine Learning Based Components for Control]()
 
 ## Setup
-Open the MATLAB Live Script (e.g, [Homework 1 Feedback Fundamentals](https://github.com/cescongroup/Learning-based-control-with-MATLAB-and-Simulink/tree/main/Student%20Version/Homework%201%20Feedback%20Fundamentals))
+Open the MATLAB Live Script (e.g, [Homework 1 Feedback Fundamentals]())
 related to the specific homework folder and run sections, modify files, enter code or text as directed.
 
 ## Suggested Prework
