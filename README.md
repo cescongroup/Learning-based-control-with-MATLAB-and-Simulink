@@ -1,4 +1,4 @@
-# Learning-Based Control with MATLAB and Simulink [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](insert URL to file exchange here)
+# Learning-Based Control with MATLAB and Simulink [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/176959-learning-based-control-with-matlab-and-simulink?s_tid=srchtitle)
 The discipline of automatic control has been firmly rooted in the tradition of model-based design, prescribing first the development of a suitable model describing the dynamical system to be controlled, and then using the developed models for the design of the control law. When the relationships between physical quantities characterizing the dynamical system are hard to model from first principle or not fully known, then it is possible to harness data collected from the system to obtain models and control laws.
 
 <p align="center">
