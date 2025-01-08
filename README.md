@@ -1,11 +1,11 @@
 # Learning-Based Control with MATLAB and Simulink [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/176959-learning-based-control-with-matlab-and-simulink?s_tid=srchtitle)
-The discipline of automatic control has been firmly rooted in the tradition of model-based design, prescribing first the development of a suitable model describing the dynamical system to be controlled, and then using the developed models for the design of the control law. When the relationships between physical quantities characterizing the dynamical system are hard to model from first principle or not fully known, then it is possible to harness data collected from the system to obtain models and control laws.
+The discipline of automatic control has been firmly rooted in the tradition of model-based design, first prescribing the development of a suitable model describing the dynamical system to be controlled and then using the developed models to design the control law. When the relationships between physical quantities characterizing the dynamical system are hard to model from first principles or are not fully known, it is possible to harness data collected from the system to obtain models and control laws. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/37b04898-f191-4319-ad86-8490750a084b" width="600" />
 </p>
 
-The objective of this course is to illustrate the basic principles of how this is accomplished combining system identification, machine learning and adaptive control.
+The objective of this course is to illustrate the basic principles of how this is accomplished by combining system identification, machine learning, and adaptive control.
 
 ## Learning Objectives:
 After the completion of the course the student will be able to:
