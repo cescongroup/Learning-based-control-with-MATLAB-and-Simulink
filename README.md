@@ -43,8 +43,6 @@ related to the specific homework folder and run sections, modify files, enter co
 ## Suggested Prework
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - a free three-hour introductory tutorial that teaches the essentials of Simulink.
 - [Data-Driven Control Tech Talks](https://www.mathworks.com/videos/series/learning-based-control.html) - introduces several concepts for learning-based control systems, such as extremum seeking control and constraint enforcement.
-- [Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) - basics of feedback control design in Simulink.
-- [Reinforcement Learning Onramp](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) - basics of creating intelligent controllers that learn from experience in MATLAB®.
 
 ## Educator Resources
 - [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
