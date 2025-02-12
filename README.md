@@ -48,3 +48,7 @@ related to the specific homework folder and run sections, modify files, enter co
 ## Products
 MATLAB 2024a, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™, Simscape Electrical™, Curve Fitting Toolbox™, Deep Learning Toolbox™,
 Signal Processing Toolbox™, Aerospace Toolbox™.
+
+## For Educators: To access the solution, please use the request form: [Learning-Based Control with MATLAB and Simulink Solution Form](https://www.mathworks.com/campaigns/surveys/learning-based-control.html)
+
+
