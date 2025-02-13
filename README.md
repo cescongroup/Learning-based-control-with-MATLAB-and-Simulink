@@ -7,6 +7,8 @@ The discipline of automatic control has been firmly rooted in the tradition of m
 
 The objective of this course is to illustrate the basic principles of how this is accomplished by combining system identification, machine learning, and adaptive control.
 
+#### Instructors can request the solution by filling out this form: [Learning-Based Control with MATLAB and Simulink Solution Form](https://www.mathworks.com/campaigns/surveys/learning-based-control.html)
+
 ## Learning Objectives:
 After the completion of the course the student will be able to:
 
@@ -49,6 +51,6 @@ related to the specific homework folder and run sections, modify files, enter co
 MATLAB 2024a, Simulink, Control System Toolbox™, Simulink Control Design™, Reinforcement Learning Toolbox™, System Identification Toolbox™, Simscape™, Simscape Multibody™, Simscape Electrical™, Curve Fitting Toolbox™, Deep Learning Toolbox™,
 Signal Processing Toolbox™, Aerospace Toolbox™.
 
-## For Educators: To access the solution, please use the request form: [Learning-Based Control with MATLAB and Simulink Solution Form](https://www.mathworks.com/campaigns/surveys/learning-based-control.html)
+#### Instructors can request the solution by filling out this form: [Learning-Based Control with MATLAB and Simulink Solution Form](https://www.mathworks.com/campaigns/surveys/learning-based-control.html)
 
 
