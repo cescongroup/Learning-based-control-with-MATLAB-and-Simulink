@@ -7,8 +7,6 @@ The discipline of automatic control has been firmly rooted in the tradition of m
 
 The objective of this course is to illustrate the basic principles of how this is accomplished by combining system identification, machine learning, and adaptive control.
 
-#### Instructors can request the solution by filling out this form: [Learning-Based Control with MATLAB and Simulink Solution Form](https://www.mathworks.com/campaigns/surveys/learning-based-control.html)
-
 ## Learning Objectives:
 After the completion of the course the student will be able to:
 
